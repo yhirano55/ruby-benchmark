@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 require 'spec_helper'
 
 describe 'Ruby Benchmark for Hash' do
@@ -5,7 +6,7 @@ describe 'Ruby Benchmark for Hash' do
 
   let! :hash do
     n.times.each_with_object({}) do |i, h|
-      h[:"key_#{i}"] = Faker::Hipster.word
+      h[:"key_#{i}"] = Faker::Lorem.word
     end
   end
 
