@@ -1,0 +1,5 @@
+/.bundle/
+/Gemfile.lock
+/Gemfile.local
+/Gemfile.local.lock
+/vendor

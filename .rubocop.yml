@@ -1,0 +1,25 @@
+AllCops:
+  TargetRubyVersion: 2.3
+  Exclude:
+    - "vendor/**/*"
+    - "Rakefile"
+    - "Gemfile"
+  DisplayCopNames: true
+
+Rails:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/BlockDelimiters:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Performance/HashEachMethods:
+  Enabled: false
