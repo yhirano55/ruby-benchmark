@@ -9,6 +9,12 @@ Benchmark Ruby code on TravisCI.
 - [Hash#values + Enumerator#each VS Hash#each_value VS Enumerator#each](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md#hashvalues--enumeratoreach-vs-hasheach_value-vs-enumeratoreach)
 - [Hash#keys + Enumerator#each VS Hash#each_key VS Enumerator#each](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md#hashkeys--enumeratoreach-vs-hasheach_key-vs-enumeratoreach)
 
+#### 02. Hashie
+
+- [Hash VS OpenStruct VS Hashie::Mash](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/02_hashie.md#hash-vs-openstruct-vs-hashiemash)
+- [OpenStruct VS Hashie::Mash (read)](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/02_hashie.md#openstruct-vs-hashiemash-read)
+- [OpenStruct VS Hashie::Mash (write)](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/02_hashie.md#openstruct-vs-hashiemash-write)
+
 ## Usage
 
 1. Fork this repo.
