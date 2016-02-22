@@ -1,10 +1,10 @@
-# ruby-benchmark
+# ruby-benchmark [![Build Status](https://travis-ci.org/yhirano55/ruby-benchmark.svg?branch=master)](https://travis-ci.org/yhirano55/ruby-benchmark)
 
 Benchmark Ruby code on TravisCI.
 
 ## Reports
 
-#### [Hash](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md)
+#### 01. Hash
 
 - [Hash#values + Enumerator#each VS Hash#each_value VS Enumerator#each](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md#hashvalues--enumeratoreach-vs-hasheach_value-vs-enumeratoreach)
 - [Hash#keys + Enumerator#each VS Hash#each_key VS Enumerator#each](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md#hashkeys--enumeratoreach-vs-hasheach_key-vs-enumeratoreach)
