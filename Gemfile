@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "activesupport"
+gem "hashie"
 
 group :development do
   gem "rake"
