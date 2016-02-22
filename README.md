@@ -2,6 +2,13 @@
 
 Benchmark Ruby code on TravisCI.
 
+## Reports
+
+01. [Hash](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md)
+
+- [Hash#values + Enumerator#each VS Hash#each_value VS Enumerator#each](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md#hashvalues--enumeratoreach-vs-hasheach_value-vs-enumeratoreach)
+- [Hash#keys + Enumerator#each VS Hash#each_key VS Enumerator#each](https://github.com/yhirano55/ruby-benchmark/blob/master/reports/01_hash.md#hashkeys--enumeratoreach-vs-hasheach_key-vs-enumeratoreach)
+
 ## Usage
 
 1. Fork this repo.
